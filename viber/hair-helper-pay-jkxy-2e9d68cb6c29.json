@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hair-helper-pay-jkxy",
+  "private_key_id": "2e9d68cb6c296ec4f8a4a393de242f87425f82a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCN16XC7bvMeMw4\noTk8aNLY1AS1AWOiZ4o3/Z9Dn4sOugDkontFpbobhvWTNHpMUg9QgtFGZ0B29Fee\nHSVwKVTyfXLDAMEb3cG8ylU7JM96xeEAtJhJOivc9LcEnU9kFYsr9uvtvfdrgJ3P\nXHXxyiSL37XwToP6+3uXEHUnSZgpnGLHh9JoZcOzgKYdUTuvacTI9zL4gW6zzIQb\n4V+Z4izniyl8oBEtbIlHf5tXyjfPM/C7JTbhW/frU1zUWG5LFUXBC4LHw4f7ZX51\nctVQH9tJHZQVvDGHNLmHfBxOfhnxcmb7XyL5nZNaX2zhkQG/ed/nVqW38N9K1EgI\nRQZktaT/AgMBAAECggEAH+/CHtWwRyWbtdR3MqbXcoKqXKbnbBWsBVdRmMQ/Zx1y\nPghngRMDiFcmy/Iw5yZC1Hnf7N4qoZ36bFtbpplnywF76XQuBrwzdvKHpj1vidEs\nDCCdeT9jyOhAnQVebsZ7A3chP/JZ1xaqcZn75GkDOYsxR94l0Uj2VtkZx7LGU/fQ\nZSKr6Ea3wubUCpT9H4vck+g5G/bliZYCno090TxIgRcKA3OrWHMf213CMhLsWetP\nCWQppEUD1wJqHiBBhzGOm1nhg6/N9iEYbF6cdO1PdNHp5781X9WjSK1dJ2XaxE7J\nAtdlYVitMx8LpoffHLGVkAVifIGHKoiNGrFBBC4SAQKBgQDAkEjcMhboK3GpXMlz\nFFvj+BEiY1BCWb2RiQWguVk0mj/Vmahm/cSpv3TvMbzHimpr6xgFcmIitO7JjeHo\nEdJYn4/W44EDuHRDZZ0mScDY7uDYwx0OVRrqH0cqx/Di4gRc11tHLncIZ6e9Doe6\nws9wOQuF12WlrPQ3x4+tYME0vwKBgQC8kdLBjyh7LrOcnWX+PTbjhsU5G0ObPMgF\nlApffBVTrAbrVXDZpo6J2qnodMwGolaVURJYW1w72RYRxhwJ4GG055lJzwB+MMbs\nsFz9lq7gc1WqtVojjy1lH1SOWKEGTp9Jm/4qDw2V6oZMbDNNblLR6sFUuUQH7a9a\nqGnrfAZfwQKBgBFZrsbwWHII4A/jhV8yGWl8A4c2rZec4GDJmNE3ghskPtYvJyZI\nfTzSPGYE9D6CcT5SC3MKMF9yMAXHG/C+Elbb4aj6DLjaGNetwzAc+xxQwb+mLOsK\nrgckVFQ9ea3nsX7wBJBwVldSh6GYOpCQVwKEkU447zazU7nm6EI18pKfAoGAX2lJ\nQja1PN68cpoRaTp/80/Vqrdo1btDWc82EGowQE3ikmCA4R+tL4M8RSoTsaeiN5r1\ntU9Es+N7jzK2LSkjRu2IWhgrH65+eHQkGQuNIHQ6/E0WdreTOH9JwVyG3TIa1pvf\nVliXfytTGIgGzT7tGNm3SK8VBQ32k+By93uhngECgYEAtiMt/cCAGy4/xwopNbqn\nb13VfJzygAyYi2e3qsJzKTdnoQ0hc+4pA9mRRGaO9tHcXNYkb4ZYIp+WfttonQ9v\nXtPC9UdeMjBNXOarEZZB1R2kAbmEWyfe7pAkNUOOzB6o8lcAabYjTN6T/dZG0Pa/\n/SKXGcBzI49LYu5T2Cpjbpo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "viber-integration@hair-helper-pay-jkxy.iam.gserviceaccount.com",
+  "client_id": "100633501059863869489",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/viber-integration%40hair-helper-pay-jkxy.iam.gserviceaccount.com"
+}
